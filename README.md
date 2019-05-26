@@ -1,14 +1,14 @@
 # JamGame
-Made by Yitao, Min, Scott, and Miguel
-Original repo link is HERE: https://github.com/minpark283/Collectathon
-Set screen size to 1600 x 900
-Controls:
-AD- move left and right
-Space - jump
-S - interact and talk
-J - to swing
-K - to shield
-P - to pause and go back home
-E - to switch between ability form
-U - to activate the ability form
-I - to use the active of the ability
+Made by Yitao, Min, Scott, and Miguel<br />
+Original repo link is HERE: https://github.com/minpark283/Collectathon<br />
+Set screen size to 1600 x 900<br />
+Controls: <br />
+AD- move left and right<br />
+Space - jump<br />
+S - interact and talk<br />
+J - to swing<br />
+K - to shield<br />
+P - to pause and go back home<br />
+E - to switch between ability form<br />
+U - to activate the ability form<br />
+I - to use the active of the ability<br />
